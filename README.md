@@ -11,8 +11,15 @@ DQN addresses the major limitations of both SARSA and standard Q-Learning with f
 
 ### CartPole Evaluation
 
-![Demo](cartpole.gif)
+![CartPole Demo](cartpole.gif)
 
 ### MountainCar Evaluation
 
-![Demo](mountaincar.gif)
+![MountainCar Demo](mountaincar.gif)
+
+## References
+
+* [**Deep Learning meets Reinforcement Learning!**](https://youtu.be/FkTN6yw1S54?si=gFYpIBd52xgFmFF6)
+* **OpenAI Gymnasium Documentation**
+
+***Author - Pawankumar Navinchandra***
